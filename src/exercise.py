@@ -1,6 +1,7 @@
 def main():
     #write your code below this line
-    num = int(input("enter number"))
+    print("enter number")
+    num = int(input())
     if num < 1:
         num2 = num * -1
         print(num2)
