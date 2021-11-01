@@ -1,6 +1,5 @@
 def main():
     #write your code below this line
-    print("enter number")
     num = input()
     num3 = int(num)
     if num3 > 0:
