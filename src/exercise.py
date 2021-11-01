@@ -2,7 +2,7 @@ def main():
     #write your code below this line
     print("enter number")
     num = int(input())
-    if num < 0:
+    if num > 0:
         num2 = num * -1
         print(num2)
     else:
